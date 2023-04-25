@@ -1,0 +1,19 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" width="12" height="15" viewBox="0 0 12 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d3d3d3;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #4bfff0;
+      }
+    </style>
+  </defs>
+  <path id="形状_2929" data-name="形状 2929" class="cls-1" d="M565,106h2v11h-2V106Zm2,11h-5l5,4v-4Z" transform="translate(-562 -106)"/>
+  <path id="形状_2929-2" data-name="形状 2929" class="cls-2" d="M569,110h2v11h-2V110Zm0,0h5l-5-4v4Z" transform="translate(-562 -106)"/>
+</svg>
